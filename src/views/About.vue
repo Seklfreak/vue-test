@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Just another test</h1>
+    <p>Exploring the world of frontend frameworks…</p>
   </div>
 </template>
